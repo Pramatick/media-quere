@@ -14,12 +14,12 @@ body{
 }
 .caja2{
     background-color: rgb(9, 255, 0);
-    border: 2px solid black;
+    border: 2px solid rgb(255, 40, 2);
     height: 200px;
 }
 @media screen and (max-width: 450px)and (min-width: 10px){
     .caja1{
-        background-color: rgb(231, 11, 11) ;
+        background-color: rgb(74, 6, 235) ;
         
         height: 200px;
     }
